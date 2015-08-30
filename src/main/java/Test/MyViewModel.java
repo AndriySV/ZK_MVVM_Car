@@ -6,6 +6,7 @@ import org.zkoss.bind.annotation.NotifyChange;
 
 public class MyViewModel {
 
+//	Comment
 	private int count;
 
 	@Init
